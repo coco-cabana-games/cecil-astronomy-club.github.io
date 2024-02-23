@@ -1,0 +1,21 @@
+body {
+  background: black;
+}
+p {
+  color: #00f8ff;
+  font-weight: 300;
+  font-size: 60px;
+}
+h1 {
+  font-weight: bold;
+}
+.myImage {
+  background-image: url("download-(12).jpeg");
+  resize: both
+}
+
+button{
+  font-size: 30px;
+  font-weight: 400;
+  
+}
