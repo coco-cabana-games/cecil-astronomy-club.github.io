@@ -1,0 +1,27 @@
+body {
+  background: black;
+}
+h2 {
+  color: white;
+  font-weight:bolder;
+  font-size: 30px;
+  text-align: left;
+  
+}
+h1 {
+  color:azure;
+  font-weight: bold;
+  position: relative;
+}
+p2 {
+    color: azure;
+    font-size: 25px;
+  text-align: left;
+     
+}
+button{
+  font-size: 30px;
+  text-align: left;
+}
+
+}
